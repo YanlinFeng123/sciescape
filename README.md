@@ -17,3 +17,7 @@ The supplied SCIEscape logo is included unchanged. Google Fonts has system-font 
 www.sciescape.cn is not configured. Its ownership and availability are unverified. Once the domain is owned, verify it in GitHub, add it in Settings > Pages, then configure a www CNAME at the DNS provider pointing to YanlinFeng123.github.io. Enable HTTPS once the certificate is available.
 
 Official instructions: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+
+## Politics essays and bylines
+
+Long Rule: Influence and Its Costs and Democracy as Self-Rule are published under Politics with the website byline Linlin Feng. Their supplied PDF and DOCX files are preserved unchanged. Profit and Public Purpose has the website byline Nathan Zhou.
