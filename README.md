@@ -8,7 +8,7 @@ https://YanlinFeng123.github.io/sciescape/
 
 This repository publishes directly from the main branch, root folder, using GitHub Pages. No build step is needed. Edit index.html, styles.css, or app.js and commit to main to update the site.
 
-The three reading guides are introductory educational content, separate from published journal articles. Contact details, team information, and contest details are awaiting the publication owner's input. There is no backend, submission form, or admin dashboard.
+Two essays are published under Economics: Profit and Public Purpose and The Feeling Economy. The first has a web reading view and the original DOCX download. The second includes a public PDF with the signed consent-form image omitted at the owner’s request; its essay and interview transcript are preserved. The three introductory reading guides remain separate from these essays. Contact details, team information, and contest details are awaiting the publication owner's input. There is no backend, submission form, or admin dashboard.
 
 The supplied SCIEscape logo is included unchanged. Google Fonts has system-font fallbacks. Internal routes use URL hashes so that they work on GitHub Pages without server rewrites.
 
