@@ -25,3 +25,7 @@ Long Rule: Influence and Its Costs and Democracy as Self-Rule are published unde
 ## Philosophy and Marx essays
 
 Mill’s Liberty and the Problem of Harm, Equality as Equal Standing, and Liberty Without Coercion are published under Philosophy. Marx: Alienation as a Social Relation is published under Economics. All four have the website byline Linlin Feng. Original attachments are preserved unchanged; the three DOCX essays also have web reading views.
+
+## Chloe Qin essay
+
+When Democracy Turns Against Liberalism is published under Politics by Chloe Qin. The public PDF replaces the original question title and adds the byline; all essay text and bibliography pages are preserved.
