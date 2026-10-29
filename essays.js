@@ -130,5 +130,20 @@ const essays = [
     "originalTitle": "",
     "body": "",
     "publicationNote": ""
+  },
+  {
+    "id": "stronger-duties-to-the-living",
+    "kind": "essay",
+    "section": "philosophy",
+    "title": "Stronger Duties to the Living",
+    "description": "Uncertainty, the non-identity problem, and limits to reciprocity make duties to the living more binding, while future generations still call for collective stewardship and adaptable policies.",
+    "author": "Ryan Zhao",
+    "format": "PDF",
+    "file": "stronger-duties-to-the-living.pdf",
+    "minutes": 10,
+    "keywords": "intergenerational ethics future generations moral obligations non identity Parfit reciprocity policy stewardship",
+    "originalTitle": "",
+    "body": "",
+    "publicationNote": ""
   }
 ];
